@@ -11,7 +11,7 @@ npm run start
 
 Load the web page on localhost:3000
 
-![]()
+![](web.png)
 
 ## Run the exploit
 
